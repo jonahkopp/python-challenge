@@ -8,3 +8,6 @@ https://stackoverflow.com/questions/14257373/how-to-skip-the-headers-when-proces
 I used the round function for the average profit change from here:
 https://www.programiz.com/python-programming/methods/built-in/round#google_vignette
 
+I used solutions from the following two links to figure out how to read just the first row in a csvreader object and then reset the reader object to the first row again:
+https://stackoverflow.com/questions/17262256/how-to-read-one-single-line-of-csv-data-in-python
+https://stackoverflow.com/questions/431752/python-csv-reader-how-do-i-return-to-the-top-of-the-file
