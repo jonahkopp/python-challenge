@@ -14,3 +14,5 @@ https://stackoverflow.com/questions/431752/python-csv-reader-how-do-i-return-to-
 
 I used examples from here to help with indexing my lists in PyPoll:
 https://www.programiz.com/python-programming/methods/list/index
+
+I used the code on opening files in write mode and zipping lists together from our Python Activities, day 2, activity 12 (census data)
