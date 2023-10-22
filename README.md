@@ -11,3 +11,6 @@ https://www.programiz.com/python-programming/methods/built-in/round#google_vigne
 I used solutions from the following two links to figure out how to read just the first row in a csvreader object and then reset the reader object to the first row again:
 https://stackoverflow.com/questions/17262256/how-to-read-one-single-line-of-csv-data-in-python
 https://stackoverflow.com/questions/431752/python-csv-reader-how-do-i-return-to-the-top-of-the-file
+
+I used examples from here to help with indexing my lists in PyPoll:
+https://www.programiz.com/python-programming/methods/list/index
